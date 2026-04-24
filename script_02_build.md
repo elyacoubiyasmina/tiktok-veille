@@ -32,7 +32,7 @@
 
 > *"Les gars. Casablanca. Ma mère a un centre laser. Depuis des années, elle fait des soins — et elle voit les mêmes problèmes de peau revenir chez ses clientes. Alors il y a 5 ans, elle a développé sa propre ligne cosmétique. Formulée de A à Z avec un laboratoire. Des actifs sérieux — rétinol, acide hyaluronique. Ses clientes testent en cabine, elles repartent avec les crèmes. Bouche-à-oreille pur."*
 
-*(B-roll : flacon sur table, main qui dépose une goutte de sérum sur le dos de la main, étiquette épurée en gros plan montrant les actifs listés, WhatsApp "Maman" qui défile, Google Maps qui zoome sur Casablanca. Le centre laser est évoqué uniquement à l'oral — pas de tournage en épisode 1, Yasmina est à Bordeaux.)*
+*(B-roll : flacon sur table, main qui dépose une goutte de sérum sur le dos de la main, étiquette épurée en gros plan montrant les actifs listés, WhatsApp "Maman" qui défile, **photo tirée de Casablanca posée sur la table à côté du flacon** (plus cinématique qu'un screen Google Maps, même effet d'ancrage géographique). Le centre laser est évoqué uniquement à l'oral — pas de tournage en épisode 1, Yasmina est à Bordeaux.)*
 
 ---
 
@@ -54,9 +54,9 @@
 
 ## 6. CORPS POINT 3 [40-52s] — CE QU'ELLE VA FAIRE
 
-> *"Par contre — c'est moi qui construis tout. De Bordeaux. 5 ans en SaaS, rien qui me sert pour lancer une marque cosmétique. Je pars de zéro. Rebranding, site, contenu, identité — j'apprends en direct. Canva, Figma, l'IA. C'est comme ça qu'on lance sa marque en 2026 sans 20k à claquer."*
+> *"Par contre — c'est moi qui construis tout. De Bordeaux. 5 ans en SaaS — et crois-moi, vendre du logiciel à des grandes boîtes et lancer une marque cosmétique c'est pas le même sport. Mais les skills, on les adapte. Rebranding, site, contenu, identité — j'apprends en direct. Canva, Figma, l'IA. C'est comme ça qu'on lance sa marque en 2026 sans 20k à claquer."*
 
-*(B-roll : split screen Bordeaux / Casablanca sur Google Maps, écran Canva ouvert, ChatGPT en train de pondre un brief, Figma vierge, mains qui tapent rapidement. Post-it "ÉPISODE 1" sur le coin du bureau.)*
+*(B-roll : workspace bordelais — écran Canva ouvert, ChatGPT en train de pondre un brief, Figma vierge, mains qui tapent rapidement. Photo tirée de Casablanca toujours posée dans le cadre, à côté du flacon — la dualité Bordeaux/Casa se crée physiquement, pas via un split screen à l'écran. Post-it "ÉPISODE 1" sur le coin du bureau.)*
 
 ---
 
@@ -90,7 +90,7 @@
 - Gros plan sur l'étiquette épurée — actifs listés (rétinol / HA) visibles (nom de marque partiellement flouté si besoin de garder l'anonymat)
 
 **Séquence points 1-2 (l'origine + l'invisibilité) :**
-- Google Maps qui zoome sur Casablanca
+- Photo tirée de Casablanca (tirage papier, polaroid ou photo imprimée) posée sur la table à côté du flacon — plus cinématique qu'un screen Google Maps filmé, même effet d'ancrage
 - Conversation WhatsApp avec "Maman" qui défile (sans lire les messages clairement)
 - Recherche Google du nom de la marque → 0 résultats pertinents (photo d'écran)
 - iPhone posé, app Instagram ouverte, profil vide / inexistant
@@ -103,7 +103,7 @@
 - Yasmina de dos ou de profil à son bureau bordelais, laptop visible
 - Écran laptop : Canva, Figma, ChatGPT, YouTube tuto ouverts
 - Mains qui tapent rapidement sur clavier
-- Split screen Bordeaux / Casablanca (carte ou deux fenêtres ouvertes)
+- Photo de Casablanca toujours présente dans le cadre (sur la table, à côté du flacon ou du laptop) — crée la dualité Bordeaux/Casa physiquement, pas via un split screen à l'écran
 - Post-it ou notebook avec "ÉPISODE 1" écrit
 
 **Séquence conclusion :**
@@ -148,7 +148,7 @@
 - [x] "en fait" × 0
 - [x] "quoi" en fin de phrase × 0
 - [x] Aucune mention "quitter son CDI" / démission
-- [x] Autodérision : "5 ans en SaaS, rien qui me sert pour lancer une marque cosmétique" + "Je pars de zéro"
+- [x] Honnêteté pro sans dévalorisation : "vendre du SaaS à des grandes boîtes et lancer une marque cosmétique c'est pas le même sport" + "les skills, on les adapte" (positionne l'apprentissage comme adaptation, pas comme remise à zéro)
 - [x] Opinion forte : "En 2026, un produit qui existe pas en ligne, ça existe pas. Point." + "C'est pas normal qu'un truc aussi bon reste invisible."
 - [x] Mix FR/EN : "SaaS", "Canva", "Figma"
 - [x] SEO : "cosmétique au Maroc" (point 1) + "lancer sa marque" (point 3) + "business familial" (conclusion) + "rebranding" (point 3)
