@@ -38,9 +38,9 @@
 
 ## 4. CORPS POINT 2 [20-35s] — POURQUOI C'EST INVISIBLE
 
-> *"Le problème c'est pas la marque — la marque elle est là. Le problème c'est que personne l'a jamais montrée en ligne. Pas de site. Pas d'Insta. Pas de contenu. S'il vous plaît — en 2026, un produit qui existe pas en ligne, ça existe pas. Point. Et c'est pas normal qu'un truc aussi bon reste invisible."*
+> *"Le problème c'est pas la marque — elle existe, elle marche, les clientes en redemandent. Le problème c'est qu'elle a jamais eu sa vitrine. Pas de page. Pas de contenu. Pas un seul post. S'il vous plaît — en 2026, une marque sans vitrine en ligne, elle touche 200 clientes. Pas un million. Et ça, c'est pas normal."*
 
-*(B-roll : recherche Google du nom de la marque → 0 résultats, écran iPhone sur Instagram vide, scroll d'un feed concurrent bien monté, retour sur le flacon posé seul. La provocation vise le public, pas le produit ni la mère.)*
+*(B-roll : flacon seul sur la table, iPhone sur Instagram Explore rempli de marques cosmétiques colorées qu'on scrolle vite — la sienne n'y est pas, retour sur le flacon seul. La provocation vise le public, pas le produit ni la mère.)*
 
 ---
 
@@ -74,7 +74,7 @@
 |--------|---------------|
 | Hook visuel | **5 ANS. PERSONNE LE SAIT.** |
 | Point 1 | **Centre laser. Puis la ligne.** |
-| Point 2 | **Invisible en ligne = absent.** |
+| Point 2 | **200 clientes. Pas un million.** |
 | CTA milieu | **Ça va aller vite.** |
 | Point 3 | **Budget : 0 €** |
 | Conclusion | **On va tout raconter.** |
@@ -92,10 +92,9 @@
 **Séquence points 1-2 (l'origine + l'invisibilité) :**
 - Photo tirée de Casablanca (tirage papier, polaroid ou photo imprimée) posée sur la table à côté du flacon — plus cinématique qu'un screen Google Maps filmé, même effet d'ancrage
 - Conversation WhatsApp avec "Maman" qui défile (sans lire les messages clairement)
-- Recherche Google du nom de la marque → 0 résultats pertinents (photo d'écran)
-- iPhone posé, app Instagram ouverte, profil vide / inexistant
-- Scroll rapide d'un feed concurrent bien monté (pour contraster visuellement ce que devrait être la présence en ligne)
+- iPhone sur Instagram Explore / feed de marques cosmétiques colorées (Typology-like, marques bien brandées) qu'on scrolle vite — la sienne n'y apparaît jamais. L'absence se ressent par contraste, sans montrer ni nommer un concurrent précis
 - Flacon seul sur la table, lumière qui baisse
+- Pas de recherche Google du nom de la marque (collision avec le nom du centre laser → révélerait le nom et casserait l'open loop)
 - Pas de screenshot de "vieilles photos produits" critiques — on ne montre JAMAIS la marque sous un angle défavorable
 - **Le centre laser n'est évoqué qu'à l'oral** dans cet épisode. Pour les épisodes suivants, prévoir : cabine de soin vide, table de soin, fauteuil, ambiance lumière douce, mains uniquement.
 
@@ -149,7 +148,7 @@
 - [x] "quoi" en fin de phrase × 0
 - [x] Aucune mention "quitter son CDI" / démission
 - [x] Honnêteté pro sans dévalorisation : "vendre du SaaS à des grandes boîtes et lancer une marque cosmétique c'est pas le même sport" + "les skills, on les adapte" (positionne l'apprentissage comme adaptation, pas comme remise à zéro)
-- [x] Opinion forte : "En 2026, un produit qui existe pas en ligne, ça existe pas. Point." + "C'est pas normal qu'un truc aussi bon reste invisible."
+- [x] Opinion forte + punchline : "Une marque sans vitrine en ligne, elle touche 200 clientes. Pas un million." + "C'est pas normal." (le contraste 200 / 1M est la ligne qui fait follow — écart entre réalité locale et potentiel global)
 - [x] Mix FR/EN : "SaaS", "Canva", "Figma"
 - [x] SEO : "cosmétique au Maroc" (point 1) + "lancer sa marque" (point 3) + "business familial" (conclusion) + "rebranding" (point 3)
 - [x] Pattern interrupt : 2 sec silence + mains + produit (hook)
