@@ -3,44 +3,44 @@
 **Titre :** "Ma mère fait ça depuis 5 ans. Personne le sait."
 **Pilier :** BUILD · **Funnel :** TOFU · **Format :** Voix off + b-roll · **Durée :** 60 sec
 **Lieu de tournage :** Bordeaux (Yasmina solo, la mère n'apparaît PAS — open loop série)
-**Angle :** mystère + injustice + fierté + DIY zéro budget
+**Angle :** mystère + fierté + injustice + DIY zéro budget. On bouscule **le public**, jamais la mère.
 **Inspiration :** @entreprisefamiliale4 (authenticité familiale) + @ladyzeelife (format série) + @lisapowher (vulnerability) + psychologie open loop
 
 ---
 
 ## 1. HOOK VISUEL [0-2s · SILENCE TOTAL]
 
-**B-roll :** plan serré sur les mains de Yasmina qui tiennent un flacon de crème de sa mère. Lumière naturelle de fenêtre (Bordeaux), fond neutre (table en bois, mur clair). Pas de visage. Le flacon est tourné lentement entre les mains, puis reposé. Son ambiant uniquement — pas de musique, pas de voix.
+**B-roll :** plan serré sur les mains de Yasmina qui tiennent un flacon de sérum de la marque. Lumière naturelle de fenêtre (Bordeaux), fond neutre (table bois, mur clair). Pas de visage. Le flacon est tourné lentement entre les doigts, on voit l'étiquette épurée (partiellement floutée si le nom doit rester caché). Son ambiant uniquement — pas de musique, pas de voix.
 
 **Texte overlay (max 5 mots) :**
 
 > **5 ANS. PERSONNE LE SAIT.**
 
-*(Pattern interrupt : silence + mains + produit inconnu = l'œil ne peut pas décrocher. L'overlay pose l'open loop : qui ? pourquoi ? on doit rester pour savoir.)*
+*(Pattern interrupt : silence + mains + produit inconnu. L'overlay pose l'open loop : qui ? pourquoi ? il faut rester pour savoir.)*
 
 ---
 
 ## 2. HOOK PARLÉ [2-4s · COLD VOICE DROP]
 
-> *"Ma mère fait ces produits depuis 5 ans. Personne ne la connaît. Ça s'arrête là."*
+> *"Ma mère a une marque de cosmétique depuis 5 ans. Personne ne la connaît. Ça s'arrête là."*
 
 *(Voix off qui tombe à froid après 2 sec de silence. Ton posé, pas émotionnel — la phrase suffit. "Ça s'arrête là" = promesse + tension.)*
 
 ---
 
-## 3. CORPS POINT 1 [4-20s] — QUI EST SA MÈRE, 5 ANS DE TRAVAIL
+## 3. CORPS POINT 1 [4-20s] — L'ORIGINE / 5 ANS DE TRAVAIL
 
-> *"Les gars. Casablanca. Une petite cuisine transformée en labo. 5 ans qu'elle formule, qu'elle emballe à la main, qu'elle livre à la poste du coin. Argan, figue de Barbarie, rhassoul. Tout local, tout fait par elle. Clientes fidèles, bouche-à-oreille. Mais zéro visibilité au-delà de son quartier."*
+> *"Les gars. Casablanca. Ma mère a un centre laser. Depuis des années, elle fait des soins — et elle voit les mêmes problèmes de peau revenir chez ses clientes. Alors il y a 5 ans, elle a développé sa propre ligne cosmétique. Formulée de A à Z avec un laboratoire. Des actifs sérieux — rétinol, acide hyaluronique. Ses clientes testent en cabine, elles repartent avec les crèmes. Bouche-à-oreille pur."*
 
-*(B-roll : flacon sur table, texture de crème déposée sur le dos de la main, capture Google Maps qui zoome sur un quartier de Casablanca, WhatsApp avec "Maman" qui défile — aucun visage.)*
+*(B-roll : flacon sur table, main qui dépose une goutte de sérum sur le dos de la main, étiquette épurée en gros plan montrant les actifs listés, WhatsApp "Maman" qui défile, Google Maps qui zoome sur Casablanca. Le centre laser est évoqué uniquement à l'oral — pas de tournage en épisode 1, Yasmina est à Bordeaux.)*
 
 ---
 
 ## 4. CORPS POINT 2 [20-35s] — POURQUOI C'EST INVISIBLE
 
-> *"Le problème c'est pas la qualité — c'est l'image. Pas de site. Pas d'Instagram. Photos prises au tel par un cousin. S'il vous plaît — elle fait de la cosmétique Maroc premium avec un packaging qu'on croirait de 2010. En 2026, tout se joue en ligne. Et là, il y a rien."*
+> *"Le problème c'est pas la marque — la marque elle est là. Le problème c'est que personne l'a jamais montrée en ligne. Pas de site. Pas d'Insta. Pas de contenu. S'il vous plaît — en 2026, un produit qui existe pas en ligne, ça existe pas. Point. Et c'est pas normal qu'un truc aussi bon reste invisible."*
 
-*(B-roll : screenshot flouté / décalé d'une vieille photo produit, recherche Google "nom de la marque" qui ne donne rien, écran iPhone vide sur l'app Instagram, zoom sur le flacon posé seul sur la table.)*
+*(B-roll : recherche Google du nom de la marque → 0 résultats, écran iPhone sur Instagram vide, scroll d'un feed concurrent bien monté, retour sur le flacon posé seul. La provocation vise le public, pas le produit ni la mère.)*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ## 6. CORPS POINT 3 [40-52s] — CE QU'ELLE VA FAIRE
 
-> *"Par contre — c'est moi qui fais tout. De Bordeaux. 5 ans en SaaS, rien qui me sert pour relancer une marque cosmétique. Je pars de zéro. Rebranding, site, contenu — j'apprends en direct. Canva, Figma, l'IA. C'est comme ça qu'on lance sa marque en 2026 sans 20k à claquer."*
+> *"Par contre — c'est moi qui construis tout. De Bordeaux. 5 ans en SaaS, rien qui me sert pour lancer une marque cosmétique. Je pars de zéro. Rebranding, site, contenu, identité — j'apprends en direct. Canva, Figma, l'IA. C'est comme ça qu'on lance sa marque en 2026 sans 20k à claquer."*
 
-*(B-roll : split screen Bordeaux / Casablanca sur Google Maps, écran Canva ouvert, ChatGPT en train de pondre un brief, Figma vierge, mains qui tapent rapidement.)*
+*(B-roll : split screen Bordeaux / Casablanca sur Google Maps, écran Canva ouvert, ChatGPT en train de pondre un brief, Figma vierge, mains qui tapent rapidement. Post-it "ÉPISODE 1" sur le coin du bureau.)*
 
 ---
 
 ## 7. CONCLUSION [52-60s] — EMOTIONAL HAMMER
 
-> *"5 ans qu'elle bosse dans l'ombre pour que personne ne la voie. Les gars, ça s'arrête là. Un business familial, ça se raconte. Episode 2 : je crée l'identité visuelle. Zéro euro."*
+> *"5 ans de travail qu'on a pas encore montré. Les gars, maintenant on va tout raconter. Un business familial, ça se raconte. Episode 2 : je crée l'identité visuelle. Zéro euro."*
 
-*(B-roll : retour sur le flacon seul sur la table, lumière qui baisse légèrement, puis plan Canva vierge avec curseur qui clignote. Plan final : mandarine posée à côté du flacon — continuité univers script 01.)*
+*(B-roll : retour sur le flacon seul sur la table, lumière qui baisse légèrement, puis Canva vierge avec curseur qui clignote. Plan final : mandarine posée à côté du flacon — continuité univers script 01.)*
 
 ---
 
@@ -73,29 +73,31 @@
 | Moment | Texte overlay |
 |--------|---------------|
 | Hook visuel | **5 ANS. PERSONNE LE SAIT.** |
-| Point 1 | **Casa. Une cuisine. Un labo.** |
-| Point 2 | **Packaging niveau 2010 🤦🏽‍♀️** |
+| Point 1 | **Centre laser. Puis la ligne.** |
+| Point 2 | **Invisible en ligne = absent.** |
 | CTA milieu | **Ça va aller vite.** |
 | Point 3 | **Budget : 0 €** |
-| Conclusion | **Un business familial se raconte.** |
+| Conclusion | **On va tout raconter.** |
 
 ---
 
 ## 9. B-ROLL SUGGESTIONS (Bordeaux, solo shot)
 
 **Séquence principale (hook + retour conclusion) :**
-- Plan serré mains tenant le flacon, lumière de fenêtre, fond bois/mur clair
+- Plan serré mains tenant le flacon de sérum, lumière de fenêtre, fond bois/mur clair
 - Flacon tourné lentement, reposé sur table
-- Texture de la crème déposée sur le dos de la main
-- Gros plan sur l'étiquette (ou partiellement floutée si tu veux garder le suspense sur le nom)
+- Goutte de sérum déposée sur le dos de la main, texture qui s'étale
+- Gros plan sur l'étiquette épurée — actifs listés (rétinol / HA) visibles (nom de marque partiellement flouté si besoin de garder l'anonymat)
 
-**Séquence points 1-2 (la mère invisible) :**
-- Google Maps qui zoome sur un quartier de Casablanca
+**Séquence points 1-2 (l'origine + l'invisibilité) :**
+- Google Maps qui zoome sur Casablanca
 - Conversation WhatsApp avec "Maman" qui défile (sans lire les messages clairement)
-- Recherche Google du nom de la marque → 0 résultats pertinents (capture à moduler)
-- Screenshot d'une vieille photo produit floue / mal cadrée
-- iPhone posé, app Instagram ouverte, profil vide
-- Ingrédients bruts si possible : argan, figue de Barbarie, rhassoul (photos libres si rien en main)
+- Recherche Google du nom de la marque → 0 résultats pertinents (photo d'écran)
+- iPhone posé, app Instagram ouverte, profil vide / inexistant
+- Scroll rapide d'un feed concurrent bien monté (pour contraster visuellement ce que devrait être la présence en ligne)
+- Flacon seul sur la table, lumière qui baisse
+- Pas de screenshot de "vieilles photos produits" critiques — on ne montre JAMAIS la marque sous un angle défavorable
+- **Le centre laser n'est évoqué qu'à l'oral** dans cet épisode. Pour les épisodes suivants, prévoir : cabine de soin vide, table de soin, fauteuil, ambiance lumière douce, mains uniquement.
 
 **Séquence CTA + point 3 (Yasmina au travail) :**
 - Yasmina de dos ou de profil à son bureau bordelais, laptop visible
@@ -114,13 +116,14 @@
 - Jamais le visage de Yasmina non plus dans cet épisode (voix off pure, mains, dos, silhouette)
 - Lumière naturelle uniquement
 - Cut toutes les 1.5-2 sec sauf sur les 2 sec silencieuses du hook
+- **Le produit est toujours filmé avec dignité** — pas de plans volontairement moches, pas de "packaging qui fait 2010" implicite. On le respecte visuellement.
 
 ---
 
 ## 10. SON RECOMMANDÉ
 
 **Structure sonore :**
-- **0-2s (hook visuel)** : silence total. Son ambiant discret (léger bruit de la pièce). C'est ce qui fait le pattern interrupt dans un feed ultra saturé.
+- **0-2s (hook visuel)** : silence total. Son ambiant discret (léger bruit de la pièce). C'est ce qui fait le pattern interrupt dans un feed saturé.
 - **2-4s (hook parlé)** : voix seule, pas de musique. Cold drop.
 - **4-35s (points 1 et 2)** : son lo-fi émotionnel, piano doux ou guitare acoustique, volume 15%. Laisse la voix dominer.
 - **35-52s (CTA + point 3)** : beat léger qui s'installe, volume 20%. Énergie qui monte.
@@ -145,16 +148,20 @@
 - [x] "en fait" × 0
 - [x] "quoi" en fin de phrase × 0
 - [x] Aucune mention "quitter son CDI" / démission
-- [x] Autodérision : "5 ans en SaaS, rien qui me sert pour relancer une marque cosmétique" + "Je pars de zéro"
-- [x] Opinion forte : "Le problème c'est pas la qualité — c'est l'image" + "C'est comme ça qu'on lance sa marque en 2026 sans 20k à claquer"
+- [x] Autodérision : "5 ans en SaaS, rien qui me sert pour lancer une marque cosmétique" + "Je pars de zéro"
+- [x] Opinion forte : "En 2026, un produit qui existe pas en ligne, ça existe pas. Point." + "C'est pas normal qu'un truc aussi bon reste invisible."
 - [x] Mix FR/EN : "SaaS", "Canva", "Figma"
-- [x] SEO : "cosmétique Maroc" (point 2) + "lancer sa marque" (point 3) + "business familial" (conclusion) + "rebranding" (point 3)
+- [x] SEO : "cosmétique au Maroc" (point 1) + "lancer sa marque" (point 3) + "business familial" (conclusion) + "rebranding" (point 3)
 - [x] Pattern interrupt : 2 sec silence + mains + produit (hook)
-- [x] Open loop : "personne le sait" → pourquoi ? qui est la mère ? suspense sur toute la série
-- [x] Audio first : silence 2 sec, voix drop cold à la 2ème sec
-- [x] Émotion pride + injustice : 5 ans d'ombre, travail manuel, clientes fidèles, mais invisible
+- [x] Open loop : "personne le sait" → qui est la mère, comment s'appelle la marque, à quoi elle ressemble → suspense toute la série
+- [x] Audio first : silence 2 sec, voix cold drop à la 2ème sec
+- [x] Émotion fierté + injustice : 5 ans de travail, produits qui marchent, clientes fidèles, mais pas encore vus par le monde
 - [x] 5 ans (pas 20, pas 3)
 - [x] Bordeaux pour Yasmina, Casablanca pour la mère
-- [x] Aucun visage visible dans cet épisode — ni mère, ni Yasmina (renforce l'univers voix off)
+- [x] Aucun visage visible dans cet épisode (ni mère, ni Yasmina)
 - [x] CTA au milieu, casual, confiant
-- [x] Conclusion sans répéter le CTA — emotional hammer + tease épisode 2
+- [x] Conclusion sans CTA répété — tease épisode 2 + manifesto court
+- [x] **Zéro critique de la mère** — la provocation vise le public ("un produit qui existe pas en ligne, ça existe pas") et l'injustice ("c'est pas normal qu'un truc aussi bon reste invisible"), jamais le produit ni le travail maternel
+- [x] **Centre laser cité comme origine** — il est le "pourquoi" de la ligne cosmétique (patterns de peau observés en cabine → création de produits). Le narrative arc est clair : centre laser → ligne cosmétique → version en ligne à construire.
+- [x] **Pas de name-dropping** (ni nom de la marque, ni références "The Ordinary" / "Aroma-Zone")
+- [x] **Laboratoire pro** (pas de "cuisine transformée en labo"), actifs nommés (rétinol + acide hyaluronique), pas d'argan / figue de barbarie / rhassoul
